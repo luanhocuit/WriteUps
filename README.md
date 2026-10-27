@@ -1,5 +1,5 @@
-# CTF challenges
-This repo cotains all my writeups about CTF challenges that I have solved.
+# Write up
+This repo cotains all my writeups about many challenges (CTFs and other challenges) that I have solved.
 
 Here is all my account in all platform that I have joined during my cybersecurity path :
 
