@@ -1,4 +1,4 @@
-	# InfosecPrep
+# InfosecPrep
 
 ![](title.png)
 
