@@ -17,6 +17,9 @@ a.out
 *.swp
 *~
 
+# Obsidian
+.obsidian
+
 # Python
 __pycache__/
 *.pyc
