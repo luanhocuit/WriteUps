@@ -6,3 +6,5 @@ Here is all my account in all platform that I have joined during my cybersecurit
 [+] [dreamhack.io](https://dreamhack.io/users/99785)
 
 [+] [picoCTF/CyLab](https://learn.cylabacademy.org/users/KaiLou)
+
+[+] [Offsec](https://portal.offsec.com/public-profile/4add8e3b-849a-475a-bff6-dc2b30cf7195)
