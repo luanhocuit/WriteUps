@@ -3,7 +3,7 @@
 
 ![](images/title.png)
 
-![](images/description.png)
+![](Offsec/InfosecPrep/images/description.png)
 
 **Target** : Lab này yêu cầu chúng ta khai thác website để tìm thông tin bị lộ nhằm lấy được SSH private key, sau đó tìm cách để đăng nhập vào được thông qua SSH. Từ đó, leo thang đặc quyền lên quyền `root` để lấy được file `proof.txt` và `local.txt`.
 > Ý tưởng đơn giản sau khi đọc Description của đề xong là mình sẽ quét bằng nmap để xem thử có bị lộ link nào không ? Nếu có thì check -> Nếu ra private key luôn thì tốt, mình sẽ dùng cái đó đăng nhập vào thông qua SSH.
@@ -90,7 +90,7 @@ find / -type f -perm /4000 2>/dev/null
 
 Chúng ta sẽ tìm file `proof.txt` và `local.txt` và lấy flag
 
-![](images/flag.png)
+![](Offsec/InfosecPrep/images/flag.png)
 
 > 🚩Flag :
 > `proof.txt` :  2059ee008652086d9a05d66ccbbd346c
