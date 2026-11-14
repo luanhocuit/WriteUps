@@ -14,7 +14,7 @@
 nmap -sC -sV <IP>
 ```
 
-![](images/nmap.png)
+![](Offsec/Loly/images/nmap.png)
 
 Sau khi chạy xong, ta thấy được port 80 đang mở và server đang chạy dịch vụ web nền tảng Nginx, mặc dù theo **Lab Description** thì có trang **Wordpress**.
 
@@ -153,7 +153,7 @@ find / -type f -name "proof.txt" 2>/dev/null
 
 Cuối cùng, dùng lệnh `cat` in ra nội dung 2 file để lấy flag.
 
-![](images/flag.png)
+![](Offsec/Loly/images/flag.png)
 ### 🚩 Flags
 
 - **local.txt:** `33679552c79b02b974467f3bda344406`
