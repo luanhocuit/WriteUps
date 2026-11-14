@@ -118,5 +118,5 @@ find . -exec cat /root/proof.txt \; -quit
 
 ## 🚩 Flags :
 
->   **local.txt:** `93a3abb4064f16b2dce3cd73c006c4ab`
->   **proof.txt:** `1cd8df86651d184c9a55e7ba28ec21af`
+-   **local.txt:** `93a3abb4064f16b2dce3cd73c006c4ab`
+-   **proof.txt:** `1cd8df86651d184c9a55e7ba28ec21af`
