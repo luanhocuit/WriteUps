@@ -2,7 +2,7 @@
 
 ![](images/dc-2.png)
 
-![](Offsec/DC-2/images/lab_description.png)
+![](images/lab_description.png)
 
 **Target:** Lab này yêu cầu chúng ta khai thác website chạy CMS WordPress thông qua kỹ thuật brute-force có mục tiêu bằng từ điển tự tạo với `cewl`. Sau khi có thông tin đăng nhập và truy cập ban đầu qua SSH, tiến hành vượt qua môi trường shell bị giới hạn (`rbash`), chuyển sang user có quyền cao hơn và leo thang đặc quyền (Privilege Escalation) lên `root` thông qua quyền `sudo` trên công cụ `git` để đọc flag `local.txt` và `proof.txt`.
 
