@@ -37,7 +37,7 @@ chmod 600 id_rsa
 ```bash
 wpscan --url <URL> -e u
 ```
-![](images/wpscan.png)
+![](Offsec/InfosecPrep/images/wpscan.png)
 
 => Chỉ thấy mỗi user = admin, mình sẽ thử login vào thông qua lệnh :
 ```bash

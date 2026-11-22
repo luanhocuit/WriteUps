@@ -29,7 +29,7 @@ Phát hiện thư mục ẩn `/wordpress`. Khi truy cập, giao diện web bị 
 
 ![](images/hosts_config.png)
 
-![](images/wordpress.png)
+![](Offsec/Loly/images/wordpress.png)
 
 > Truy cập thành công trang WordPress.
 

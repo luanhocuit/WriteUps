@@ -2,7 +2,7 @@
 
 ![](images/dc1.png)
 
-![](images/lab_description.png)
+![](Offsec/DC-1/images/lab_description.png)
 
 **Target:** Lab này yêu cầu chúng ta rà quét và khai thác lỗ hổng trên website chạy CMS Drupal (cụ thể là `Drupal 7.x`) để chiếm quyền thực thi lệnh, sau đó leo thang đặc quyền (Privilege Escalation) thông qua lỗi cấu hình SUID để đọc flag `local.txt` và `proof.txt`.
 
@@ -14,7 +14,7 @@
 nmap -sC -sV <IP_Target>
 ```
 
-![](images/nmap.png)
+![](Offsec/DC-1/images/nmap.png)
 
 Sau khi chạy xong, ta thấy được có 2 port đang mở là **22 (SSH)** và **80 (HTTP)**.
 
@@ -114,7 +114,7 @@ find . -exec cat /home/local.txt \; -quit
 find . -exec cat /root/proof.txt \; -quit
 ```
 
-![](images/flag.png)
+![](Offsec/DC-1/images/flag.png)
 
 ## 🚩 Flags :
 
