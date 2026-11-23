@@ -141,7 +141,6 @@ Hệ thống lập tức cấp phiên làm việc mới mà không hỏi mật k
 ![](images/root_access.png)
 
 > Chúng ta đã chiếm được quyền `root` thành công!
-
 ## 4. Result
 
 Dưới quyền `root`, mình sử dụng lệnh `find` để tìm kiếm vị trí chính xác của hai file cờ `local.txt` và `proof.txt` trên toàn bộ hệ thống:
